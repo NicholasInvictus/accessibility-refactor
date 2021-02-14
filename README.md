@@ -1,9 +1,9 @@
 # accessibility-refactor
-accessibility refactor
+accessibility refactor project for the Horiseon website
 
-# Foobar
+# Horiseon
 
-Foobar is a Python library for dealing with word pluralization.
+Horiseon is your company's answer when it comes to SEO, ORM, and SMM. 
 
 ## Installation
 
